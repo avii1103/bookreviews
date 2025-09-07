@@ -1,6 +1,6 @@
 # Dracula
 
-Cover: Dracula%201d17d6f4db5180d8be7bcc1fa26efbdf/2596_637590797109429003.webp
+Cover: ![Dracula](Dracula.jpeg)
 
 Rating: 🌕🌕🌕🌗
 
