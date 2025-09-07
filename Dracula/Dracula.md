@@ -1,6 +1,6 @@
 # Dracula
 
-Cover: ![Dracula](Dracula.jpeg)
+Cover: ![Dracula](https://github.com/avii1103/bookreviews/blob/main/Dracula/dracula.jpeg?raw=true)
 
 Rating: 🌕🌕🌕🌗
 
